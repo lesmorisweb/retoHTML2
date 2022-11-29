@@ -66,6 +66,7 @@
    margin: 20px 70px;
    box-shadow: 5px 5px 40px rgba(0, 0, 0, 0.568);
    overflow: hidden;
+   z-index: 1;
    
 }
 
